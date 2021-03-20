@@ -1,0 +1,6 @@
+
+cron:
+    - description: 30 seconds job
+      url: /update
+      schedule: every 30 secs
+
