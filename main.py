@@ -1,5 +1,5 @@
-import webapp2
-import urllib3
+import flask
+
 class UpdateCachedData(webapp2.RequestHandler):
     def get(self):
         # request = urllib2.Request('<GCF URL>', headers={"cronrequest" : "true"})
