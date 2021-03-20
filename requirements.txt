@@ -1,4 +1,4 @@
 
 webapp2==2.5.2
-urllib2==v3.9.2
+urllib2
 
